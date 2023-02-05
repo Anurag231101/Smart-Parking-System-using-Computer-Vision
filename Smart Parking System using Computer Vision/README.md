@@ -1,0 +1,3 @@
+Smart Parking System using Computer Vision (cv) in this we check the car space is empty or not if empty then it will shows in green box and if space is not empty then that will shows in red box and in this there is counter how many cars is occupied the parking space and how many is empty
+1) Firstly run imgpos.py then using right click decide the position of the cars where car will parked
+2) then run main.py then you will get output
